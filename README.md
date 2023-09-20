@@ -1,6 +1,5 @@
 # Simple - About Me
 
-Deployment Link 🤖
-https://aboutme-sanh16.vercel.app/
+### Deployment Link 🤖
 
-https://aboutme-omega.vercel.app/
+https://simple-about.vercel.app/
